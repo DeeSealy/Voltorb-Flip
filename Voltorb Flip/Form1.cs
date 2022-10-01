@@ -393,14 +393,8 @@ namespace Voltorb_Flip
 
         private void btnThanks_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Special thanks to Butterfree/Dragonfree/antialiasis for use of their guide.\n\n\nThanks to Math, Ben the Bee and Kevin Bourque, Esquire for coding help and TT for the idea");
+            MessageBox.Show("Special thanks to Butterfree/Dragonfree/antialiasis for use of their guide.\n\n\nThanks to Math, Ben the Bee and Kev Bourque, Esquire for coding help and TT for the idea");
         }
 
-        static void voltorbPicture()
-        {
-
-
-
-        }
     }
 }
